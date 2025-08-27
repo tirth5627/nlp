@@ -1,0 +1,9 @@
+# Ignore all text datasets
+*.txt
+
+# Ignore all parquet datasets
+*.parquet
+
+# If datasets are in a folder (like data/ or datasets/)
+data/
+datasets/
